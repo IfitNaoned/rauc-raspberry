@@ -6,10 +6,10 @@ Embedded raspberry 3b+ (64 bits) image with rauc (client) for .NET6 apps deploym
 
 ## Road map
 - [x] buildroot ( build default raspberry image )
--- [x] buildroot-external
--- [x] systemd
+	- [x] buildroot-external
+	- [x] systemd
 - [ ] rauc
--- [ ] u-boot
--- [ ] rauc client integration
--- [ ] rescue partition
+	- [ ] u-boot
+	- [ ] rauc client integration
+	- [ ] rescue partition
 - [ ] add additional boards (CM3/4)
