@@ -13,3 +13,12 @@ Embedded raspberry 3b+ (64 bits) image with rauc (client) for .NET6 apps deploym
 	- [ ] rauc client integration
 	- [ ] rescue partition
 - [ ] add additional boards (CM3/4)
+
+## External Ressources
+
+- buildroot + external boards
+	- https://github.com/OpenVoiceOS/OpenVoiceOS
+- rauc + buildroot + raspberry cm4
+	- https://github.com/cdsteinkuehler/br2rauc
+- u-boot + raspberry
+	- https://github.com/gbesnard/rpi-uboot-buildroot
