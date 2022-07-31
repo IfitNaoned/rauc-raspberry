@@ -1,0 +1,1 @@
+user 1000 user 1000 - /home/jes /bin/sh adm,dialout,sudo,netdev,gpio,i2c,spi,plugdev DEFAULT user
